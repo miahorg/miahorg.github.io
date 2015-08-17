@@ -10,3 +10,5 @@ github_username:  miahorg
 
 # Build settings
 markdown: kramdown
+
+timezone: America/Denver
