@@ -1,0 +1,12 @@
+# Site settings
+title: MIAHORG
+email: miah@miah.org
+description: > # this means to ignore newlines until "baseurl:"
+ Here is an awesome description of a site that I'll be creating. Yay!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://miahorg.github.io" # the base hostname & protocol for your site
+twitter_username: miahorg
+github_username:  miahorg
+
+# Build settings
+markdown: kramdown
