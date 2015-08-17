@@ -11,4 +11,5 @@ github_username:  miahorg
 # Build settings
 markdown: kramdown
 
+# Set the timezone for delayed posting calculations
 timezone: America/Denver
