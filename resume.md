@@ -8,7 +8,7 @@ permalink: /resume/
 ### Qualifications
 * Linux
 * Windows
-* Apache
+* Networking
 
 ### Education
 * Metropolitan State College of Denver - B.A. History, Philosophy minor - Dec. 2011
