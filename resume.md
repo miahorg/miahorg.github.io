@@ -12,6 +12,8 @@ permalink: /resume/
 
 ### Education
 * Metropolitan State College of Denver - B.A. History, Philosophy minor - Dec. 2011
-* Introduction to R
 
-### Interests
+* Udacity Data Science Nanodegree
+* DataCamp.com R Courseware
+  * [Introduction to R]({{ site.url }}/mooc/introductiontor.pdf)
+* Edx.org Sabermetrics 101x
