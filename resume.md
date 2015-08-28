@@ -12,5 +12,6 @@ permalink: /resume/
 
 ### Education
 * Metropolitan State College of Denver - B.A. History, Philosophy minor - Dec. 2011
+* Introduction to R
 
 ### Interests
