@@ -13,11 +13,13 @@ permalink: /resume/
 ### Education
 * Metropolitan State College of Denver - B.A. History, Philosophy minor - Dec. 2011
 
-* Udacity Data Science Nanodegree
-* O'Reilly School of Technology
+* [Udacity](https://www.udacity.com/)
+  * Data Science Nanodegree
+* [O'Reilly School of Technology](https://oreillyschool.com/)
   * DBA1: [Intro to Database Administration](/ost/dba1introtodatabaseadministration.pdf)
   * DBA2: [Administering MySQL](/ost/dba2administeringmysql.pdf)
-* DataCamp.com R Courseware
+* [DataCamp](https://www.datacamp.com/) R Courseware
   * [Introduction to R](/mooc/introductiontor.pdf)
   * [Intermediate R](/mooc/intermediater.pdf)
-* Edx.org Sabermetrics 101x
+* [Edx.org](https://www.edx.org/) 
+  * Sabermetrics 101x
