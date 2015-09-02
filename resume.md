@@ -19,4 +19,5 @@ permalink: /resume/
   * DBA2: [Administering MySQL](/ost/dba2administeringmysql.pdf)
 * DataCamp.com R Courseware
   * [Introduction to R](/mooc/introductiontor.pdf)
+  * [Intermediate R](/mooc/intermediater.pdf)
 * Edx.org Sabermetrics 101x
