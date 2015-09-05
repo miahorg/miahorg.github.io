@@ -21,5 +21,6 @@ permalink: /resume/
 * [DataCamp](https://www.datacamp.com/) R Courseware
   * [Introduction to R](/mooc/introductiontor.pdf)
   * [Intermediate R](/mooc/intermediater.pdf)
+  * [Data Manipulation in R with dplyr](/mooc/datamanipulationinrwithdiplyr.pdf)
 * [Edx.org](https://www.edx.org/) 
   * Sabermetrics 101x
