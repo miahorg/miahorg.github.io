@@ -23,5 +23,6 @@ permalink: /resume/
   * [Intermediate R](/mooc/intermediater.pdf)
   * [Data Manipulation in R with dplyr](/mooc/datamanipulationinrwithdiplyr.pdf)
   * [Data Analysis in R, the data.table Way](/mooc/dataanalysisinrthedatatableway.pdf)
+  * [Data Visualization in R with ggvis](/mooc/datavisualizationinrwithggvis.pdf)
 * [Edx.org](https://www.edx.org/) 
   * Sabermetrics 101x
