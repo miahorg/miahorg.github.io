@@ -31,6 +31,7 @@ permalink: /resume/
   * Statistics with R
     * A Hands-on Introduction to Statistics with R
       * [Intro to Statistics with R: Introduction](/mooc/introtostatisticswithrintroduction.pdf)
+      * [Intro to Statistics with R: Student's T-test](/mooc/introtostatisticswithrstudetttest.pdf)
     * Introduction to Machine Learning
   * Big Data with R
     * Revolution R Enterprise
