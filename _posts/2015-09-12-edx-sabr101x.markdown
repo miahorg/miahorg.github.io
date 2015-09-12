@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "edX BUx-SABR101x: Sabermetrics 101"
+date:   2015-09-12 09:52:01
+categories: datascience
+---
+So yeah, baseball. Interesting right? I never really thought so myself. Like the average person I enjoy going to the games, I own a baseball hat, and I even root for the home team. There just has been no attraction previously as I'm not much of fan of sportsball in general. I'm largely turned off by the spectacle and the outrageous sums of money that the players earn.
+
+Then the stars started to align in a different way. I had garnered a love for The West Wing and by proxy a love for all things Aaron Sorkin. When [Moneyball][moneyball] arrived in theaters I found myself actively pining to see a movie, about baseball. It was a fantastic story, multiple layers, blah blah blah. The parts about baseball being ruined by money resonated with me.
+
+Fast forward a few years and I find myself reading a [piece on Slashdot][sd-post] that mentions Moneyball and an event in history. I'm a sucker for history, especially object history regarding computers. In this was a reference to a course offered on edX.org for [Sabermetrics 101][edx-sabr]. Without hesitating I signed up at the halfway point in the term and plowed through the material.
+
+The stars got me again. Just that morning I had word that the now defunct [O'Reilly School of Technology][ost] would be discontinuing the certification program I had been going through to demonstrate some MySQL knowledge. In the Sabermetrics course they have a large track on how to query data via SQL so this felt like a good substitute. Incidentally this sparked an interest in the R language which has captured my imagination and started a new obsession.
+
+The Sabermetrics 101 course covered some history of the game from Earnshaw Cook to Bill James (featured in Moneyball). There is a PBS documentary on Baseball by Ken Burns I'm looking forward to burning a few evenings watching now. Since this was my first foray into the world of the "MOOC" there were some rough edges. Online learning is still nascent as a field. This can leave you feeling rather stranded in coursework unless you happen to know someone in the field you are studying. As it turns out my tastes are well described with the word esoteric so I know barely anybody with similar interests.
+
+I enjoyed the course and got some really good practice with SQL - something I knew how to do but never really did enough to cement. Finishing up with an overall 88% knowing nothing about baseball statistics feels like a fairly good victory. I'm looking forward to the 201 course they've hinted at and moving on to some more R materials.
+
+[ost]: https://oreillyschool.com/
+[edx-sabr]: https://www.edx.org/course/sabermetrics-101-introduction-baseball-bux-sabr101x-0
+[moneyball]: http://www.imdb.com/title/tt1210166/
+[sd-post]:	http://science.slashdot.org/story/15/07/27/0137212/for-the-love-of-the-analytics-of-the-game-before-beane-there-was-avm-systems
