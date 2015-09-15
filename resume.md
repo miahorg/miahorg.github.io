@@ -4,7 +4,9 @@ title: Resume
 permalink: /resume/
 ---
 **Booj.com** - March 2014 to present
+
 **Fluentstream Technologies** - October 2013 to March 2014
+
 **Name.com** - January 2012 to October 2013
 
 ### Qualifications
