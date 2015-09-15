@@ -57,3 +57,7 @@ permalink: /resume/
     * Intro to Computational Finance with R
 * [Edx.org](https://www.edx.org/) 
   * Sabermetrics 101x
+* [dataquest.io](https://www.dataquest.io/)
+  * Data Analyst
+  * Data Scientist
+  * Data Engineer
