@@ -44,6 +44,8 @@ permalink: /resume/
     * [Reporting with R Markdown](/mooc/reportingwithrmarkdown.pdf)
   * Statistics with R
     * [Introduction to Machine Learning](/mooc/introductiontomachinelearning.pdf)
+  * Electives
+    * [How to work with Quandl in R](/mooc/howtoworkwithquandlinr.pdf)
 * [Edx.org](https://www.edx.org/) 
   * Sabermetrics 101x
 * [dataquest.io](https://www.dataquest.io/)
