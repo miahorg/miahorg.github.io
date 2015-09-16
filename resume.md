@@ -44,14 +44,6 @@ permalink: /resume/
     * [Reporting with R Markdown](/mooc/reportingwithrmarkdown.pdf)
   * Statistics with R
     * [Introduction to Machine Learning](/mooc/introductiontomachinelearning.pdf)
-  * Big Data with R
-    * Revolution R Enterprise
-  * Electives
-    * Quandl and R
-    * Kaggle: R tutorial on Machine Learning
-  * Other Courses
-    * Data Analysis and Statistical Inference
-    * Intro to Computational Finance with R
 * [Edx.org](https://www.edx.org/) 
   * Sabermetrics 101x
 * [dataquest.io](https://www.dataquest.io/)
