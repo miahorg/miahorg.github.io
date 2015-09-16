@@ -43,10 +43,7 @@ permalink: /resume/
     * [Data Visualization in R with ggvis](/mooc/datavisualizationinrwithggvis.pdf)
     * [Reporting with R Markdown](/mooc/reportingwithrmarkdown.pdf)
   * Statistics with R
-    * A Hands-on Introduction to Statistics with R
-      * [Intro to Statistics with R: Introduction](/mooc/introtostatisticswithrintroduction.pdf)
-      * [Intro to Statistics with R: Student's T-test](/mooc/introtostatisticswithrstudetttest.pdf)
-    * Introduction to Machine Learning
+    * [Introduction to Machine Learning](/mooc/introductiontomachinelearning.pdf)
   * Big Data with R
     * Revolution R Enterprise
   * Electives
