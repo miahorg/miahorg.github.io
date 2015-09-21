@@ -48,6 +48,8 @@ permalink: /resume/
     * [How to work with Quandl in R](/mooc/howtoworkwithquandlinr.pdf)
 * [Edx.org](https://www.edx.org/) 
   * Sabermetrics 101x
+* [Coursera.org](https://www.coursera.org/) 
+  * Data Analysis and Statistical Inference
 * [dataquest.io](https://www.dataquest.io/)
   * Data Analyst
   * Data Scientist
