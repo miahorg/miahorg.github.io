@@ -46,8 +46,9 @@ permalink: /resume/
     * [Introduction to Machine Learning](/mooc/introductiontomachinelearning.pdf)
   * Electives
     * [How to work with Quandl in R](/mooc/howtoworkwithquandlinr.pdf)
-* [Edx.org](https://www.edx.org/) 
-  * Sabermetrics 101x
+* [Edx.org](https://www.edx.org/)
+  * SABR101x Sabermetrics 101: Introduction to Baseball Analytics
+  * DAT203x Data Science and Machine Learning Essentials
 * [Coursera.org](https://www.coursera.org/) 
   * Data Analysis and Statistical Inference
 * [dataquest.io](https://www.dataquest.io/)
