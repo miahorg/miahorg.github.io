@@ -3,25 +3,47 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-**Booj.com** - March 2014 to present
-
-**Fluentstream Technologies** - October 2013 to March 2014
-
-**Name.com** - January 2012 to October 2013
+* **Booj.com** - March 2014 to present
+* **Fluentstream Technologies** - October 2013 to March 2014
+* **Name.com** - January 2012 to October 2013
 
 ### Qualifications
-* Linux
-* Windows
-* Networking
 
+##### General
+* Linux
+  * RedHat/CentOS, Ubuntu 12/14 LTS
+  * iptables, ipchains
+* Windows
+  * Desktop: 95 to 10
+  * Server: 2000 to 2k12r2
+* VMWare ESXi
+* Networking
+  * TCP/IP
+  * DHCP
+  * DNS
+* Configuration Enginges: Puppet, Chef, Ansible
+* VOIP/SIP
+  * Asterisk
+  * Polycom Phones
+
+##### Databases
 * Elasticsearch
-* MongoDB
 * MySQL
 * PostgreSQL
 
+##### Services
+* Apache
+* Nginx
+* Redis
+* Memecached
+* HAProxy
+* Jenkins
+
+##### Programming Languages
 * PHP
-* Perl
 * Python
+* SQL
+* BASH
 * R
 
 ### Education
@@ -54,4 +76,3 @@ permalink: /resume/
 * [dataquest.io](https://www.dataquest.io/)
   * Data Analyst
   * Data Scientist
-  * Data Engineer
