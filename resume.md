@@ -25,6 +25,10 @@ permalink: /resume/
 * VOIP/SIP
   * Asterisk
   * Polycom Phones
+* Configuration Management
+  * Ansible
+  * Puppet
+  * Chef
 
 ##### Databases
 * Elasticsearch
@@ -45,6 +49,11 @@ permalink: /resume/
 * SQL
 * BASH
 * R
+
+##### Development Tools
+* git
+* svn
+
 
 ### Education
 * Metropolitan State College of Denver - B.A. History, Philosophy minor - Dec. 2011
