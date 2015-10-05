@@ -76,7 +76,7 @@ permalink: /resume/
   * Electives
     * [How to work with Quandl in R](/mooc/howtoworkwithquandlinr.pdf)
 * [Edx.org](https://www.edx.org/)
-  * SABR101x Sabermetrics 101: Introduction to Baseball Analytics
+  * [SABR101x Sabermetrics 101: Introduction to Baseball Analytics](/mooc/SABR101x-certificate.pdf)
   * DAT203x Data Science and Machine Learning Essentials
 * [Coursera.org](https://www.coursera.org/) 
   * Data Analysis and Statistical Inference
