@@ -12,16 +12,19 @@ permalink: /resume/
 ##### General
 * Linux
   * RedHat/CentOS, Ubuntu 12/14 LTS
-  * RPM package creation
+  * RPM package creation and modification
   * iptables, ipchains
 * Windows
   * Desktop: 95 to 10
   * Server: 2000 to 2k12r2
+* Mac OS X
 * VMWare ESXi
 * Networking
   * TCP/IP
   * DHCP
   * DNS
+    * Bind
+    * dnsmasq
 * VOIP/SIP
   * Asterisk
   * Polycom Phones
@@ -38,8 +41,9 @@ permalink: /resume/
 ##### Services
 * Apache
   * Modsecurity
+  * Tomcat
 * Varnish
-* Nginx
+* nginx
 * PHP-FPM
 * Redis
 * Memecached
