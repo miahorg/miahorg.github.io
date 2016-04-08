@@ -42,6 +42,8 @@ permalink: /resume/
 * Apache
   * Modsecurity
   * Tomcat
+  * mod_rewrite
+  * mod_proxy
 * Varnish
 * nginx
 * PHP-FPM
