@@ -51,6 +51,7 @@ permalink: /resume/
 * Memecached
 * HAProxy
 * Jenkins
+* Exotic ssh usage
 
 ##### Programming Languages
 * PHP
