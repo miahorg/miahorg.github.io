@@ -88,3 +88,4 @@ permalink: /resume/
   * [SABR101x Sabermetrics 101: Introduction to Baseball Analytics](/mooc/SABR101x-certificate.pdf)
 * [Udemy.com](http://www.udemy.com)
   * [Complete SQL Bootcamp](/mooc/completesqlbootcamp.pdf)
+  * [Spatial SQL with Postgres]()
