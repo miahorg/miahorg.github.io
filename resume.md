@@ -89,3 +89,4 @@ permalink: /resume/
 * [Udemy.com](http://www.udemy.com)
   * [Complete SQL Bootcamp](/mooc/completesqlbootcamp.pdf)
   * [Spatial SQL with Postgres](/mooc/spacialsqlwithpostgres.pdf)
+  * [Introduction to GIS](/mooc/introductiontogis.pdf)
